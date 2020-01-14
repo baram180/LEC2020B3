@@ -21,7 +21,7 @@ todayCommission = 7.75;
 todayPayment = baseDailySalary + todayCommission;
 
 
-% Use of more operators
+% Use of more operatorswho
 numWorkers = 12;
 
 totalLabourCost = numWorkers * todayPayment; % multiplication
